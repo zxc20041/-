@@ -1,0 +1,11 @@
+C:\Users\zxc\source\repos\通讯录管理系统\通讯录管理系统\bin\Release\通讯录管理系统.exe.config
+C:\Users\zxc\source\repos\通讯录管理系统\通讯录管理系统\bin\Release\通讯录管理系统.exe
+C:\Users\zxc\source\repos\通讯录管理系统\通讯录管理系统\bin\Release\通讯录管理系统.pdb
+C:\Users\zxc\source\repos\通讯录管理系统\通讯录管理系统\obj\Release\通讯录管理系统.csproj.AssemblyReference.cache
+C:\Users\zxc\source\repos\通讯录管理系统\通讯录管理系统\obj\Release\通讯录管理系统.loginForm.resources
+C:\Users\zxc\source\repos\通讯录管理系统\通讯录管理系统\obj\Release\通讯录管理系统.mainForm.resources
+C:\Users\zxc\source\repos\通讯录管理系统\通讯录管理系统\obj\Release\通讯录管理系统.Properties.Resources.resources
+C:\Users\zxc\source\repos\通讯录管理系统\通讯录管理系统\obj\Release\通讯录管理系统.csproj.GenerateResource.cache
+C:\Users\zxc\source\repos\通讯录管理系统\通讯录管理系统\obj\Release\通讯录管理系统.csproj.CoreCompileInputs.cache
+C:\Users\zxc\source\repos\通讯录管理系统\通讯录管理系统\obj\Release\通讯录管理系统.exe
+C:\Users\zxc\source\repos\通讯录管理系统\通讯录管理系统\obj\Release\通讯录管理系统.pdb

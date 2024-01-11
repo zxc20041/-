@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "通讯录管理系统", "通讯录管理系统\通讯录管理系统.csproj", "{BF940E0D-5676-461C-9F07-613E61039EBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF940E0D-5676-461C-9F07-613E61039EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF940E0D-5676-461C-9F07-613E61039EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF940E0D-5676-461C-9F07-613E61039EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF940E0D-5676-461C-9F07-613E61039EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53C7A438-3FD8-4B7A-81B1-3CAC7F28D9B7}
+	EndGlobalSection
+EndGlobal
